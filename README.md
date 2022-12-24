@@ -14,7 +14,7 @@ This is a Design of a Metaverse Website.
 <br>
 
 <p>
-  <img alt="Thumbnail" src="assets/New Project.png">
+  <img alt="Thumbnail" src="New Project.png">
 </p>
 
 <br>
